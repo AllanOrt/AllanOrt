@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Allan!</h1>
 
-<!--
-**AllanOrt/AllanOrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm a 15 y/o developer from Sweden who loves building cool things.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<p align="left">
+  👨‍💻 Started programming at 11 years old<br>
+  🌐 I have made my own website, <a href="https://allanortegren.se/">allanortegren.se</a><br>
+  💾 Intrested in old computers
+</p>
+
+###
+
+<h2 align="left">🛠️ I Code With</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+###
+
+<h2 align="left">📫 How to Reach Me</h2>
+
+###
+
+<p align="left">
+  ✉️ Email: <a href="mailto:allan.ortegren@icloud.com">allan.ortegren@icloud.com</a><br>
+  💼 Linkedin: <a href="https://www.linkedin.com/in/allan-örtegren/">allan-örtegren</a><br>
+  🌐 Website <a href="https://allanortegren.se/">allanortegren.se</a><br>
+</p>
+
