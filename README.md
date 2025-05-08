@@ -31,15 +31,15 @@
 </div>
 
 ###
-###
 
-<h2 align="left">📫 How to Reach Me</h2>
+<h2 align="left">📫 Contact Me</h2>
 
 ###
 
 <p align="left">
   ✉️ Email: <a href="mailto:allan.ortegren@icloud.com">allan.ortegren@icloud.com</a><br>
   💼 Linkedin: <a href="https://www.linkedin.com/in/allan-örtegren/">allan-örtegren</a><br>
+  🤖 Discord: <a href="https://discord.com/users/1337800649651523644">allan_35914</a><br>
   🌐 Website <a href="https://allanortegren.se/">allanortegren.se</a><br>
 </p>
 
