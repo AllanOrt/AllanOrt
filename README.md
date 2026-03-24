@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 15 y/o developer from Sweden who loves building cool things.</p>
+<p align="left">I'm a 16 y/o developer from Sweden who loves building cool things.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  👨‍💻 Started programming at 11 years old<br>
+  👨‍💻 Started programming at 9 years old<br>
   🌐 I have made my own website, <a href="https://allanortegren.se/">allanortegren.se</a><br>
   💾 Intrested in old computers
 </p>
